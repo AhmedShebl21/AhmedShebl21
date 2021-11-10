@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Python , ML , DL , Data WH , POWER BI , SQL , mathematics and Statistics    
 - 💞️ I’m  looking forward to collaborating on data analysis and gaining experiences
-- 📫 How to reach me , Hers is my acc ahmednasershebl@yahoo.com
+- 📫 How to reach me , here is my acc ahmednasershebl@yahoo.com
 
 <!---
 AhmedShebl21/AhmedShebl21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
