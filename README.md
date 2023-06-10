@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ahmed Naser Shebl
+- 👋 Hi, I’m Ahmed Shebl
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python , ML , DL , Data WH , POWER BI , SQL , mathematics and Statistics    
+- 🌱 I’m currently learning Python , ML , Data WH , Power BI , SQL  to enhance my skills 
 - 💞️ I’m  looking forward  collaborating on data analysis and gaining experiences
 - 📫 How to reach me , here is my Email ahmednasershebl@yahoo.com
 
