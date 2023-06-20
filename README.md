@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Shebl
-- 👀 Data Science Enthusiast with solid experience in Statistical and Business analytics 
+- 👀 Data Science Enthusiast, i have solid experience in Statistical and Business analytics 
 - 🌱 I’m currently learning Python , ML , Data WH , Power BI , SQL  to enhance my skills 
 - 💞️ I’m  looking forward  collaborating on data analysis and gaining experiences
 - 📫 How to reach me , here is my Email ahmednasershebl@yahoo.com
